@@ -1,6 +1,5 @@
 # Hello RMI Kotlin
 
---------
 
 ## Instructions
 
